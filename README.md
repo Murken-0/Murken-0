@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Murken-0
 - 👀 I’m interested in improve in programming 
 - 🌱 I’m currently learning C#
-- 📫 You can contact me via email muravievvlad.2002@gmail.com and telegram @muraviev_v
+- 📫 You can contact me via [Email](muravievvlad.2002@gmail.com) and [Telegram](t.me/muraviev_v)
