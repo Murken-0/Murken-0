@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Murken-0
 - 👀 I’m interested in improve in programming 
-- 🌱 I’m currently learning C#
 - 📫 You can contact me via [Email](mailto:murkenxd@yandex.ru) and [Telegram](https://t.me/muraviev_v)
